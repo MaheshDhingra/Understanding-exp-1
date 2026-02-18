@@ -1,1 +1,1 @@
-const MAHESH = myname;
+console.log("MAIN CODE")
