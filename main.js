@@ -1,1 +1,1 @@
-console.log("MAIN")
+const MAHESH = myname;
